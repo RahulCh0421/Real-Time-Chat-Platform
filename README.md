@@ -20,3 +20,6 @@ It is a real-time, privacy-focused chat platform designed for temporary communic
 ### Purpose
 
 This Chat Platform focuses on providing a simple and temporary communication experience where conversations disappear rather than being permanently stored.
+
+This is my personal project developed for internship
+Intern Id: CITS7348
